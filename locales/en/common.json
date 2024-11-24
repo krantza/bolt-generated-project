@@ -1,0 +1,18 @@
+{
+      // ... (other translations remain the same)
+      "error": "Error:"
+    }
+
+      "languages": {
+        "en": "English",
+        "es": "Spanish",
+        "fr": "French",
+        "de": "German",
+        "zh": "Chinese",
+        "ar": "Arabic",
+        "hi": "Hindi",
+        "pt": "Portuguese",
+        "ru": "Russian",
+        "bn": "Bengali"
+      }
+    }
